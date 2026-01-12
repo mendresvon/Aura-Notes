@@ -10,8 +10,6 @@
 
 **A full-stack note-taking application inspired by Google Keep, featuring dynamic note sizing and a responsive masonry layout**
 
-[Live Demo](https://aura-notes-xi.vercel.app) · [Report Bug](https://github.com/breznev/aura-notes/issues) · [Request Feature](https://github.com/breznev/aura-notes/issues)
-
 </div>
 
 ---
