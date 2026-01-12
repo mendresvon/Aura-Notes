@@ -451,7 +451,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📫 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Von Breznev Mendres - mendresvon@gmail.com
 
 Project Link: [https://github.com/breznev/aura-notes](https://github.com/breznev/aura-notes)
 
